@@ -1,7 +1,7 @@
 # game-of-life
 Submitted as part of the degree of Msci Natural Sciences (2nd year) to the Board of Examiners in the Department of Computer Sciences, Durham University. 
 This summative assignment was assessed and marked by the professor of the module in question:
-## Grade: 1st - 97/100
+## Grade: 1st - 97/100, ~3rd in year.
 An implementation of Conway's Game of Life in C on a potentially infinite board size.
 
 Command line options for compiled code:
